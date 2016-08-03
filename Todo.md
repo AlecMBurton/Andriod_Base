@@ -1,6 +1,8 @@
 Todo:
 [ ] Get Java book and start with refresher.
 [ ] Try coding up the Hello World application.
-[ ] Get good base understanding first.
+[ ] Try to figure out a way to integrate git with Android Studio.
+[ ] Figure out a way to share code easily.
+[ ] Remember to update Idea list on the wiki regularly.
 
 ---
